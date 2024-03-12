@@ -8,8 +8,8 @@ Hey there! Welcome to our Java MongoDB Learning Project! 🚀 This project is ai
 ## Installation
 
 To understand MongoDB with java we need to first run MongoDB locally on system. There are 2 ways to do it.
-1. [Running via Docker](#Running via Docker)
-2. [Running directly by MongoSh](#Running directly by MongoSh)
+1. [Running via Docker](##Running via Docker)
+2. [Running directly by MongoSh](##Running directly by MongoSh)
 
 ### Running via Docker
 
